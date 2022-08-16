@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Laravel
+🌱 I’m currently learning Laravel and Go and Redis and Tailwindcss and more...
