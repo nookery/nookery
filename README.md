@@ -1,3 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Laravel and Go and Redis and Tailwindcss and more...
+🌱 Here are what I’m currently learning 
+- Laravel
+- Go
+- Flutter
+- Swift UI
+- Redis
+- Tailwindcss
+- and more...
