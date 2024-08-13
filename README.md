@@ -32,7 +32,15 @@ I can't wait to introduce my good friends to you.
 
 If you are interested in their stories, or want to be friends with them, please send me a message.
 
-## My wonderful works
+## My Wonderful Works
 
+I will continually learn and research for a goal. Currently, my achievements are listed as follows:
+
+| project | framework | why |
+|-----|-----|-----|
+| [JuiceEditor](https://github.com/CofficLab/JuiceEditor) | vue.js, web component | For the note-taking software I developed myself. |
+| [Cisum](https://github.com/CofficLab/Cisum_SwiftUI) | SwiftUI | The audio software I developed myself. |
+
+In addition, there is a webpage to showcase all of the above:
 [click here](https://cofficlab.github.io)
 
