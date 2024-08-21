@@ -18,29 +18,12 @@
 
 👋 Welcome to my page！
 
-I am an engineer passionate about software development and committed to continuous learning.
-
-I can't wait to introduce my good friends to you.
-
-- 🎉 `PHP and Laravel` helps me quickly build beautiful, modern web applications
-- 🎉 `Golang` helps me build high-performance server-side applications
-- 🎉 `Flutter` helps me build cross-platform applications
-- 🎉 `Swift UI` helps me build modern applications for iOS and macOS
-- 🎉 `Vue.js` is the star of current web development
-- 🎉 `Electron.js` is the star of current desktop application development
-- 🎉 `Tailwindcss` makes CSS more user-friendly
-
-If you are interested in their stories, or want to be friends with them, please send me a message.
+🧑‍💼 I am an engineer passionate about software development and committed to continuous learning.
 
 ## My Wonderful Works
 
-I will continually learn and research for a goal. Currently, my achievements are listed as follows:
+💪 I will continually learn and research for a goal. Here is a webpage to showcase all of my works:
 
-| project | framework | why |
-|-----|-----|-----|
-| [JuiceEditor](https://github.com/CofficLab/JuiceEditor) | vue.js, web component | For the note-taking software I developed myself. |
-| [Cisum](https://github.com/CofficLab/Cisum_SwiftUI) | SwiftUI | The audio software I developed myself. |
+➡️ <https://cofficlab.github.io>
 
-In addition, there is a webpage to showcase all of the above:
-[click here](https://cofficlab.github.io)
-
+🍉 If you are interested in my stories, please send me a message.
