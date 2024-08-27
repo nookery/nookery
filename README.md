@@ -18,7 +18,9 @@
 
 👋 Welcome to my page！
 
-🧑‍💼 I am an engineer passionate about software development and committed to continuous learning.
+🧑‍💼 I am an engineer passionate about software development and committed to continuous learning. Here is a webpage shows my resume:
+
+➡️ <https://nookery.github.io>
 
 ## My Wonderful Works
 
