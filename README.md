@@ -28,6 +28,7 @@
 
 💪 I will continually learn and research for a goal. Here is a webpage to showcase all of my works:
 
-➡️ <https://cofficlab.github.io>
+➡️ <https://cofficlab.github.io>  
+（Users in mainland China may not be able to open it due to network limitation）
 
 🍉 If you are interested in my stories, please send me a message.
