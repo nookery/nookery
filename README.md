@@ -20,7 +20,9 @@
 
 🧑‍💼 I am an engineer passionate about software development and committed to continuous learning. Here is a webpage shows my resume:
 
-➡️ <https://nookery.github.io>
+➡️ <https://nookery.github.io>  
+
+（Users in mainland China may not be able to open it due to network limitation）
 
 ## My Wonderful Works
 
