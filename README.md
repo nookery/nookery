@@ -1,4 +1,4 @@
-# Hi there 👋
+# Learning Is a Lifelong Game 📖
 
 [![Visits Badge](https://badges.pufler.dev/visits/nookery/badge-it)](https://badges.pufler.dev)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
