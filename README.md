@@ -12,7 +12,6 @@
 <div align="start">
     <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nookery&hide_title=true&hide_border=false&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite&bg_color=ffffee" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nookery&show_icons=true&theme=github_dark_dimmed&hide_title=true" />
-    <img src="https://s01.flagcounter.com/count2/mUY2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
 </div>
 
 ## About Me
