@@ -20,7 +20,7 @@
 
 🧑‍💼 I am an engineer passionate about software development and committed to continuous learning. Here is a webpage shows my resume:
 
-➡️ <https://coffic.zone.id/founder>  
+➡️ <https://coffic.cn/founder>  
 
 （Users in mainland China may not be able to open it due to network limitation）
 
@@ -28,7 +28,7 @@
 
 💪 I will continually learn and research for a goal. Here is a webpage to showcase all of my works:
 
-➡️ <https://coffic.zone.id>  
+➡️ <https://coffic.cn>  
 （Users in mainland China may not be able to open it due to network limitation）
 
 OR
