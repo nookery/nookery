@@ -1,12 +1,12 @@
 # Learning Is a Lifelong Game 📖
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img height="137px" src="https://github-readme-stats-seven-alpha-32.vercel.app/api?username=nookery&show_icons=true&theme=github_dark_dimmed&hide_title=true&count_private=true" />
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats-seven-alpha-32.vercel.app/api?username=nookery&show_icons=true&layout=compact&theme=github_dark_dimmed&hide_title=true&count_private=true&card_width=400" />
     </td>
-    <td>
-      <img height="137px" src="https://github-readme-stats-seven-alpha-32.vercel.app/api/top-langs?username=nookery&layout=compact&langs_count=8&card_width=320" />
+    <td width="43%" align="center">
+      <img src="https://github-readme-stats-seven-alpha-32.vercel.app/api/top-langs?username=nookery&show_icons=true&layout=compact&langs_count=8&theme=github_dark_dimmed&card_width=400&hide_title=true" />
     </td>
   </tr>
 </table>
