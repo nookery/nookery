@@ -1,6 +1,6 @@
 # Learning Is a Lifelong Game 📖
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="45%" align="center">
       <img src="https://github-readme-stats-seven-alpha-32.vercel.app/api?username=nookery&show_icons=true&layout=compact&theme=github_dark_dimmed&hide_title=true&count_private=true&card_width=400" />
